@@ -1,1 +1,1 @@
-FROM docker.io/goharbor/valkey-photon:v2.11.1
+FROM docker.io/goharbor/valkey-photon:v2.15.4
